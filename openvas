@@ -136,7 +136,7 @@ cd gsa-8.0.2 ;\
 gvm-manage-certs -a
 
 
-gvmd --create-user=admin --password="Nt8f6Tmty3N4QDqe"
+gvmd --create-user=admin --password="Change me"
 
 gvmd ;\
 openvassd ;\
